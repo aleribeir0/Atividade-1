@@ -1,4 +1,4 @@
-# Atividade-1
+﻿# Atividade-1
 Tarefa da UC7 - Solução Problema
 
 Principais comandos de como gerenciar o versionamento de seu código:
@@ -18,4 +18,4 @@ Entrar no github e "ADD README"
 ITEM 3 - Para puxar o arquivo do Github para o repositório local:
 Git pull
 
-TESTE
+
